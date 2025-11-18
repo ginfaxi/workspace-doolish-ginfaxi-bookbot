@@ -1,2 +1,3 @@
-# workspace-doolish-ginfaxi-bookbot
-boot.dev bookbot project
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
